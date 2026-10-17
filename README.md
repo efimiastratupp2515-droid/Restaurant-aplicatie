@@ -40,7 +40,7 @@ Fișierele de proiectare și documentația vor fi încărcate în repository.
 
 ## 6. Prototipul Figma
 
-Link către prototipul interactiv: https://www.figma.com/design/VxM2WvP1XmbYFfTiLuax9l/Untitled?node-id=0-1&t=65XiWx83JgY78PIR-1
+Link către prototipul interactiv: [Deschide prototipul Figma] https://www.figma.com/design/VxM2WvP1XmbYFfTiLuax9l/Untitled?node-id=0-1&t=65XiWx83JgY78PIR-1
 
 ## 7. Perioada proiectului
 
