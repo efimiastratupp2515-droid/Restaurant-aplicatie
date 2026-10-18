@@ -73,3 +73,6 @@ https://www.figma.com/proto/eyKWNQnlQ4fNNo1gddD0xs/Diagrame?node-id=0-1&t=AbwNh5
 <img width="1411" height="422" alt="Click up" src="https://github.com/user-attachments/assets/0e94cfb2-c80b-4fa0-8e2f-1f7ee649ed07" />
 
 <img width="1918" height="1078" alt="Plan_Gantt_Restaurant" src="https://github.com/user-attachments/assets/bc9f3707-b18e-4932-8fb2-a3ec8be14e52" />
+
+### Analiza și specificarea cerințelor
+[ANALIZA ȘI SPECIFICAREA CERINȚELOR.docx](https://github.com/user-attachments/files/33638236/ANALIZA.I.SPECIFICAREA.CERIN.ELOR.docx)
