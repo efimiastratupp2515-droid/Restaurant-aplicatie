@@ -49,14 +49,3 @@ Link către prototipul interactiv: [Deschide prototipul Figma] https://www.figma
 ## 8. Concluzie
 
 Proiectul contribuie la dezvoltarea competențelor de analiză, planificare și proiectare a aplicațiilor digitale. Utilizarea Figma, Trello, ClickUp și GitHub permite organizarea și documentarea etapelor de realizare a prototipului.
-
-## 9. Etapele dezvoltării proiectului
-
-Proiectul a fost organizat în etape:
-planificarea aplicației, analiza cerințelor,
-proiectarea interfeței în Figma, realizarea
-funcționalităților principale, testarea
-prototipului și documentarea proiectului.
-
-Activitățile sunt gestionate individual,
-utilizând Trello, ClickUp și GitHub.
