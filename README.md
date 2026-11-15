@@ -62,7 +62,7 @@ https://trello.com/b/oovKK9Af/restaurant-aplica%C8%9Bie
 ### Planul Gantt în ClickUp
 https://app.clickup.com/90122200565/v/l/2kxv79fn-332
 
-<img width="1918" height="1078" alt="Plan_Gantt_Restaurant" src="https://github.com/user-attachments/assets/bc9f3707-b18e-4932-8fb2-a3ec8be14e52" />
+<img width="1840" height="812" alt="Plan_Gantt_Restaurant" src="https://github.com/user-attachments/assets/10a62c5b-d04b-422b-84b8-d2ac2acd13dc" />
 
 ### Diagrama de secvență UML
 https://www.figma.com/proto/eyKWNQnlQ4fNNo1gddD0xs/Diagrame?node-id=0-1&t=AbwNh5lUdFFMHvM8-1
